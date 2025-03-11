@@ -21,28 +21,12 @@ Ministry of Defence
 The proposed solution is an AI-driven skill assessment system that provides candidates with scenario-based questions and practical challenges aligned with their domain expertise. The system will evaluate candidates based on their approach, problem-solving methods, and final solutions, using advanced AI algorithms. This will provide a more realistic and comprehensive assessment of their skills, ensuring better hiring and promotion decisions.
 
 ## Proposed Solution / Architecture Diagram
-User Interface (UI): Web-based platform for employees, managers, and HR personnel.
+![627f2f2c-54d8-41d8-8556-18dc181892b2](https://github.com/user-attachments/assets/23db5750-fb5d-4ef2-85a5-ba24f54b629f)
 
-Data Collection Module: Gathers data from project reports, work logs, and feedback surveys.
-
-AI-Based Evaluation Engine: Uses NLP and ML models to analyze employee performance based on textual feedback, work submissions, and productivity metrics.
-
-Score Computation Module: Generates a quantitative score based on project outcomes, peer feedback, and self-assessment.
-
-Review & Reporting System: Provides insights through dashboards and detailed performance reports.
-
-Recommendation System: Suggests skill development plans and training based on performance trends.
 
 ## Use Cases
-Automated Performance Reviews: AI analyzes employee contributions and provides objective evaluations.
+![ed153695-75d8-4ae0-9034-168b61dd9cd6](https://github.com/user-attachments/assets/5fc25dfb-ea3b-43a8-9eb4-b232b843c1d7)
 
-Bias-Free Assessments: Reduces human bias in performance reviews by using AI-driven analysis.
-
-Skill Gap Identification: Identifies skill deficiencies and suggests training programs.
-
-HR Decision Support: Provides insights for promotions, salary increments, and workforce planning.
-
-Continuous Monitoring: Tracks performance trends over time for better workforce management.
 
 ## Technology Stack
 Frontend: React.js / Vue.js
